@@ -18,7 +18,7 @@ You can read more information about this dataset in [Critical Infrastructures - 
 - Personal email: fperezhernandez92@gmail.com
 - Institutional email: fperezhernandez@ugr.es
 
-[***José Rodríguez Ortega***](https://www.linkedin.com/in/)
+[***José Rodríguez Ortega***](https://www.linkedin.com/in/jose-rodr%C3%ADguez-ortega)
 - Personal email: jrodriguezortega98@gmail.com
 - Institutional email: jrodriguez98@correo.ugr.es
 
