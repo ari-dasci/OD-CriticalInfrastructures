@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_15</folder>
+	<filename>harbor-10_43-192666_3-150098_43-144728_3-215305_15_3-496_5312_5312_resize.jpg</filename>
+	<path>/home/jrodriguez/Documentos/x/googlemaps/images_15/harbor-10_43-192666_3-150098_43-144728_3-215305_15_3-496_5312_5312_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1519</width>
+		<height>1116</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>harbor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>711</xmin>
+			<ymin>505</ymin>
+			<xmax>822</xmax>
+			<ymax>600</ymax>
+		</bndbox>
+	</object>
+</annotation>

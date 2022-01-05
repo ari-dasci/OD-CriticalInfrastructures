@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_15</folder>
+	<filename>industrial-9_53-798237_9-833582_53-74991_9-913184_15_2-8638_5312_5312_resize.jpg</filename>
+	<path>/home/jrodriguez/Documentos/x/googlemaps/images_15/industrial-9_53-798237_9-833582_53-74991_9-913184_15_2-8638_5312_5312_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1854</width>
+		<height>1116</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>industrial</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>790</xmin>
+			<ymin>493</ymin>
+			<xmax>941</xmax>
+			<ymax>606</ymax>
+		</bndbox>
+	</object>
+</annotation>

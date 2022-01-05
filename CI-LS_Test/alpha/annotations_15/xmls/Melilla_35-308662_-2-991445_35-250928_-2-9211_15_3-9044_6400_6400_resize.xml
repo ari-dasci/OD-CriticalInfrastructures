@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images_test</folder>
+<filename>Melilla_35-308662_-2-991445_35-250928_-2-9211_15_3-9044_6400_6400_resize.jpg</filename>
+<path>Melilla_35-308662_-2-991445_35-250928_-2-9211_15_3-9044_6400_6400_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1639</width>
+		<height>1345</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>airport</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>692</xmin>
+			<ymin>502</ymin>
+			<xmax>949</xmax>
+			<ymax>805</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>harbor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1209</xmin>
+			<ymin>265</ymin>
+			<xmax>1606</xmax>
+			<ymax>859</ymax>
+		</bndbox>
+	</object>
+</annotation>

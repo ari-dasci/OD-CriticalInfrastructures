@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images_test</folder>
+<filename>estacion4-1_36-543702_-6-304048_36-514073_-6-26935_16_1-9789_3200_3200_resize.jpg</filename>
+<path>estacion4-1_36-543702_-6-304048_36-514073_-6-26935_16_1-9789_3200_3200_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1617</width>
+		<height>1345</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>train_station</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>674</xmin>
+			<ymin>585</ymin>
+			<xmax>888</xmax>
+			<ymax>760</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>harbor</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>508</xmin>
+			<ymin>1</ymin>
+			<xmax>1617</xmax>
+			<ymax>759</ymax>
+		</bndbox>
+	</object>
+</annotation>

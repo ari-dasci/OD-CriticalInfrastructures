@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_test</folder>
+<filename>SantaCruzDeLaPalma_28-65468_-17-789062_28-598308_-17-722156_15_4-1051_6400_6400_resize.jpg</filename>
+<path>SantaCruzDeLaPalma_28-65468_-17-789062_28-598308_-17-722156_15_4-1051_6400_6400_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1559</width>
+		<height>1345</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>airport</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>713</xmin>
+			<ymin>399</ymin>
+			<xmax>882</xmax>
+			<ymax>969</ymax>
+		</bndbox>
+	</object>
+</annotation>

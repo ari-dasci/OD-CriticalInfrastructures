@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_test</folder>
+<filename>Rota_36-660004_-6-36685_36-630391_-6-332077_16_1-9747_3200_3200_resize.jpg</filename>
+<path>Rota_36-660004_-6-36685_36-630391_-6-332077_16_1-9747_3200_3200_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1620</width>
+		<height>1345</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>airport</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>378</ymin>
+			<xmax>1620</xmax>
+			<ymax>952</ymax>
+		</bndbox>
+	</object>
+</annotation>

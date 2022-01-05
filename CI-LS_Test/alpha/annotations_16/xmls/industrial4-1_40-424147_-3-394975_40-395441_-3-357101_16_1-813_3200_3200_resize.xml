@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_test</folder>
+<filename>industrial4-1_40-424147_-3-394975_40-395441_-3-357101_16_1-813_3200_3200_resize.jpg</filename>
+<path>industrial4-1_40-424147_-3-394975_40-395441_-3-357101_16_1-813_3200_3200_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1765</width>
+		<height>1345</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>industrial</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>500</xmin>
+			<ymin>341</ymin>
+			<xmax>1237</xmax>
+			<ymax>775</ymax>
+		</bndbox>
+	</object>
+</annotation>

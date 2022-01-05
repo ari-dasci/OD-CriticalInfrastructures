@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images_test</folder>
+<filename>puerto1-1_36-770544_-2-624622_36-741579_-2-588919_16_1-9232_3200_3200_resize.jpg</filename>
+<path>puerto1-1_36-770544_-2-624622_36-741579_-2-588919_16_1-9232_3200_3200_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1663</width>
+		<height>1345</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>harbor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>804</xmin>
+			<ymin>508</ymin>
+			<xmax>1026</xmax>
+			<ymax>776</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>motorway</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>245</xmin>
+			<ymin>60</ymin>
+			<xmax>388</xmax>
+			<ymax>92</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>motorway</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>79</ymin>
+			<xmax>245</xmax>
+			<ymax>106</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Fuerteventura_28-463627_-13-881881_28-434475_-13-849513_16_2-1214_3200_3200_resize.jpg</filename>
+	<path>/mnt/37EF314C613A76E8/GitHub/x/IMAGENES/Aeropuertos/EIS_GM_Combinacion/images/Fuerteventura_28-463627_-13-881881_28-434475_-13-849513_16_2-1214_3200_3200_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1508</width>
+		<height>1345</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>airport</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>600</xmin>
+			<ymin>1</ymin>
+			<xmax>902</xmax>
+			<ymax>1345</ymax>
+		</bndbox>
+	</object>
+</annotation>

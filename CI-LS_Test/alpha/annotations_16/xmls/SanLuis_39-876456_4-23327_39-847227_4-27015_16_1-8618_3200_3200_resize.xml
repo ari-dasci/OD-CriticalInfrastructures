@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>SanLuis_39-876456_4-23327_39-847227_4-27015_16_1-8618_3200_3200_resize.jpg</filename>
+	<path>/mnt/37EF314C613A76E8/GitHub/x/IMAGENES/Aeropuertos/EIS_GM_Combinacion/images/SanLuis_39-876456_4-23327_39-847227_4-27015_16_1-8618_3200_3200_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1718</width>
+		<height>1345</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>airport</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>673</xmin>
+			<ymin>303</ymin>
+			<xmax>1036</xmax>
+			<ymax>1030</ymax>
+		</bndbox>
+	</object>
+</annotation>

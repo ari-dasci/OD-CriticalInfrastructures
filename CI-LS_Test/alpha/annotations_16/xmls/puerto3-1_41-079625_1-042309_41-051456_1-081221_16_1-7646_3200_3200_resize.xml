@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_test</folder>
+<filename>puerto3-1_41-079625_1-042309_41-051456_1-081221_16_1-7646_3200_3200_resize.jpg</filename>
+<path>puerto3-1_41-079625_1-042309_41-051456_1-081221_16_1-7646_3200_3200_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1813</width>
+		<height>1345</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>harbor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>683</xmin>
+			<ymin>595</ymin>
+			<xmax>1115</xmax>
+			<ymax>913</ymax>
+		</bndbox>
+	</object>
+</annotation>
