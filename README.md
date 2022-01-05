@@ -22,6 +22,12 @@ You can read more information about this dataset in [Critical Infrastructures - 
 - Personal email: jrodriguezortega98@gmail.com
 - Institutional email: jrodriguez98@correo.ugr.es
 
+## Reference
+```
+Pérez-Hernández, F., Rodríguez-Ortega, J., Benhammou, Y., Herrera, F., & Tabik, S. (2021). CI-dataset and DetDSCI methodology for detecting too small and too large critical infrastructures in satellite images: Airports and electrical substations as case study. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 14, 12149-12162.
+```
+
+
 ### License
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
