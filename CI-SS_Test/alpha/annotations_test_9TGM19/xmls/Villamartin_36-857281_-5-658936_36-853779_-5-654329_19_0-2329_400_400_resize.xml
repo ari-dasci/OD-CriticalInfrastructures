@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_test_9TGM19</folder>
+<filename>Villamartin_36-857281_-5-658936_36-853779_-5-654329_19_0-2329_400_400_resize.jpg</filename>
+<path>Villamartin_36-857281_-5-658936_36-853779_-5-654329_19_0-2329_400_400_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1717</width>
+		<height>1345</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>737</xmin>
+			<ymin>663</ymin>
+			<xmax>826</xmax>
+			<ymax>765</ymax>
+		</bndbox>
+	</object>
+</annotation>

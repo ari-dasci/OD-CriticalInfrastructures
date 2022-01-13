@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images_test_9TGM19</folder>
+<filename>TajoDeLaEncantadaSub_36-896709_-4-748065_36-893171_-4-743496_19_0-2348_400_400_resize.jpg</filename>
+<path>TajoDeLaEncantadaSub_36-896709_-4-748065_36-893171_-4-743496_19_0-2348_400_400_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1703</width>
+		<height>1345</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>234</ymin>
+			<xmax>784</xmax>
+			<ymax>836</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>914</xmin>
+			<ymin>428</ymin>
+			<xmax>1703</xmax>
+			<ymax>1037</ymax>
+		</bndbox>
+	</object>
+</annotation>

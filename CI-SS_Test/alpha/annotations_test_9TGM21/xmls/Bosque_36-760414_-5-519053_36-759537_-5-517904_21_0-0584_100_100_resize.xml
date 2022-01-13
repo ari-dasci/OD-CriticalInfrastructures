@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_test_9TGM21</folder>
+<filename>Bosque_36-760414_-5-519053_36-759537_-5-517904_21_0-0584_100_100_resize.jpg</filename>
+<path>Bosque_36-760414_-5-519053_36-759537_-5-517904_21_0-0584_100_100_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1713</width>
+		<height>1345</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>576</xmin>
+			<ymin>367</ymin>
+			<xmax>1026</xmax>
+			<ymax>927</ymax>
+		</bndbox>
+	</object>
+</annotation>

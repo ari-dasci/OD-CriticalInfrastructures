@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_test_9Tclases</folder>
+	<filename>plane_7_36-68017_-4-496419_36-676621_-4-491874_19_0-2361_400_400_resize.jpg</filename>
+	<path>/home/jrodriguez/Documentos/Universidad/INVESTIGACION/x/etiquetado/diferentes_clases/images_test_9Tclases/plane_7_36-68017_-4-496419_36-676621_-4-491874_19_0-2361_400_400_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1694</width>
+		<height>1345</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>730</xmin>
+			<ymin>578</ymin>
+			<xmax>914</xmax>
+			<ymax>757</ymax>
+		</bndbox>
+	</object>
+</annotation>

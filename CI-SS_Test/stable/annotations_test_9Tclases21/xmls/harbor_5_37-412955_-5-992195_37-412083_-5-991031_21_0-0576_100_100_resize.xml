@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_test_9Tclases</folder>
+	<filename>harbor_5_37-412955_-5-992195_37-412083_-5-991031_21_0-0576_100_100_resize.jpg</filename>
+	<path>/home/jrodriguez/Documentos/Universidad/INVESTIGACION/x/etiquetado/diferentes_clases/images_test_9Tclases/harbor_5_37-412955_-5-992195_37-412083_-5-991031_21_0-0576_100_100_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1736</width>
+		<height>1345</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>harbor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>420</xmin>
+			<ymin>73</ymin>
+			<xmax>1281</xmax>
+			<ymax>1314</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_test_9TGM20</folder>
+<filename>Paredones_36-861835_-4-720292_36-860065_-4-718009_20_0-1175_200_200_resize.jpg</filename>
+<path>Paredones_36-861835_-4-720292_36-860065_-4-718009_20_0-1175_200_200_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1702</width>
+		<height>1345</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>632</xmin>
+			<ymin>566</ymin>
+			<xmax>969</xmax>
+			<ymax>790</ymax>
+		</bndbox>
+	</object>
+</annotation>

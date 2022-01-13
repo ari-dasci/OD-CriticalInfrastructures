@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_test_9TGM20</folder>
+<filename>Miraflores_36-728368_-4-360476_36-726592_-4-358205_20_0-1181_200_200_resize.jpg</filename>
+<path>Miraflores_36-728368_-4-360476_36-726592_-4-358205_20_0-1181_200_200_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1693</width>
+		<height>1345</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>667</xmin>
+			<ymin>431</ymin>
+			<xmax>939</xmax>
+			<ymax>677</ymax>
+		</bndbox>
+	</object>
+</annotation>

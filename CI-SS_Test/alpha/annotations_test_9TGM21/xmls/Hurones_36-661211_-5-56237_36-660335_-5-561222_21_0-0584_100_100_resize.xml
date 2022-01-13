@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_test_9TGM21</folder>
+<filename>Hurones_36-661211_-5-56237_36-660335_-5-561222_21_0-0584_100_100_resize.jpg</filename>
+<path>Hurones_36-661211_-5-56237_36-660335_-5-561222_21_0-0584_100_100_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1711</width>
+		<height>1345</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>583</xmin>
+			<ymin>464</ymin>
+			<xmax>1070</xmax>
+			<ymax>824</ymax>
+		</bndbox>
+	</object>
+</annotation>

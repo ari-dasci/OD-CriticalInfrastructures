@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_test_9TGM19</folder>
+<filename>Alijar_36-735181_-6-296803_36-731477_-6-292455_19_0-2467_400_400_resize.jpg</filename>
+<path>Alijar_36-735181_-6-296803_36-731477_-6-292455_19_0-2467_400_400_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1621</width>
+		<height>1345</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>754</xmin>
+			<ymin>591</ymin>
+			<xmax>830</xmax>
+			<ymax>657</ymax>
+		</bndbox>
+	</object>
+</annotation>

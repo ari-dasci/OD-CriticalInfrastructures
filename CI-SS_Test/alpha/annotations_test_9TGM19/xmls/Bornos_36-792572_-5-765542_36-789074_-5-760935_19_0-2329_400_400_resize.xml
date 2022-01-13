@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_test_9TGM19</folder>
+<filename>Bornos_36-792572_-5-765542_36-789074_-5-760935_19_0-2329_400_400_resize.jpg</filename>
+<path>Bornos_36-792572_-5-765542_36-789074_-5-760935_19_0-2329_400_400_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1717</width>
+		<height>1345</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>736</xmin>
+			<ymin>593</ymin>
+			<xmax>961</xmax>
+			<ymax>734</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_test_9TGM21</folder>
+<filename>Cumbres_36-727322_-2-765369_36-726418_-2-764251_21_0-06_100_100_resize.jpg</filename>
+<path>Cumbres_36-727322_-2-765369_36-726418_-2-764251_21_0-06_100_100_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1666</width>
+		<height>1345</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>745</xmin>
+			<ymin>391</ymin>
+			<xmax>1489</xmax>
+			<ymax>872</ymax>
+		</bndbox>
+	</object>
+</annotation>

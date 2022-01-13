@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_test_9Tclases</folder>
+	<filename>bridge_1_37-879714_-4-77548_37-87883_-4-774321_21_0-0579_100_100_resize.jpg</filename>
+	<path>/home/jrodriguez/Documentos/Universidad/INVESTIGACION/x/etiquetado/diferentes_clases/images_test_9Tclases/bridge_1_37-879714_-4-77548_37-87883_-4-774321_21_0-0579_100_100_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1727</width>
+		<height>1345</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bridge</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>246</xmin>
+			<ymin>145</ymin>
+			<xmax>1593</xmax>
+			<ymax>1287</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images_test_9TGM21</folder>
+<filename>Berja_36-833221_-2-9242_36-832319_-2-92308_21_0-0598_100_100_resize.jpg</filename>
+<path>Berja_36-833221_-2-9242_36-832319_-2-92308_21_0-0598_100_100_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1671</width>
+		<height>1345</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>288</xmin>
+			<ymin>245</ymin>
+			<xmax>1372</xmax>
+			<ymax>1018</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1397</xmin>
+			<ymin>67</ymin>
+			<xmax>1671</xmax>
+			<ymax>781</ymax>
+		</bndbox>
+	</object>
+</annotation>

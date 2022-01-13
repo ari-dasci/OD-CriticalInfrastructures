@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_test_9TGM19</folder>
+<filename>Ubrique_36-695815_-5-463626_36-692305_-5-459037_19_0-2338_400_400_resize.jpg</filename>
+<path>Ubrique_36-695815_-5-463626_36-692305_-5-459037_19_0-2338_400_400_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1710</width>
+		<height>1345</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>808</xmin>
+			<ymin>619</ymin>
+			<xmax>956</xmax>
+			<ymax>710</ymax>
+		</bndbox>
+	</object>
+</annotation>

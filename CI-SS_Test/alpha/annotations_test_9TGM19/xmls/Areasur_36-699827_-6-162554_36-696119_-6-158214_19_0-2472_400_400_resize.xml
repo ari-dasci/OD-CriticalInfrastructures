@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_test_9TGM19</folder>
+<filename>Areasur_36-699827_-6-162554_36-696119_-6-158214_19_0-2472_400_400_resize.jpg</filename>
+<path>Areasur_36-699827_-6-162554_36-696119_-6-158214_19_0-2472_400_400_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1618</width>
+		<height>1345</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>715</xmin>
+			<ymin>609</ymin>
+			<xmax>842</xmax>
+			<ymax>693</ymax>
+		</bndbox>
+	</object>
+</annotation>

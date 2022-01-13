@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_test_9TGM21</folder>
+<filename>CiudadJardin_36-737434_-4-425638_36-736546_-4-424502_21_0-059_100_100_resize.jpg</filename>
+<path>CiudadJardin_36-737434_-4-425638_36-736546_-4-424502_21_0-059_100_100_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1694</width>
+		<height>1345</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>933</xmin>
+			<ymin>797</ymin>
+			<xmax>1127</xmax>
+			<ymax>1143</ymax>
+		</bndbox>
+	</object>
+</annotation>

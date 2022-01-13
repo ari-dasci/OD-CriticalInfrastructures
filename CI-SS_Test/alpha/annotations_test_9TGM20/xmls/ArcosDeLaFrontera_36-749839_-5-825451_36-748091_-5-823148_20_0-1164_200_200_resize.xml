@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_test_9TGM20</folder>
+<filename>ArcosDeLaFrontera_36-749839_-5-825451_36-748091_-5-823148_20_0-1164_200_200_resize.jpg</filename>
+<path>ArcosDeLaFrontera_36-749839_-5-825451_36-748091_-5-823148_20_0-1164_200_200_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1717</width>
+		<height>1345</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>714</xmin>
+			<ymin>514</ymin>
+			<xmax>1008</xmax>
+			<ymax>818</ymax>
+		</bndbox>
+	</object>
+</annotation>

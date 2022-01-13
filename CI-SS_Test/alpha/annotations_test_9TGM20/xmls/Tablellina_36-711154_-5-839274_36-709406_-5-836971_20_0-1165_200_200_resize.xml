@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_test_9TGM20</folder>
+<filename>Tablellina_36-711154_-5-839274_36-709406_-5-836971_20_0-1165_200_200_resize.jpg</filename>
+<path>Tablellina_36-711154_-5-839274_36-709406_-5-836971_20_0-1165_200_200_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1717</width>
+		<height>1345</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>939</xmin>
+			<ymin>704</ymin>
+			<xmax>1085</xmax>
+			<ymax>818</ymax>
+		</bndbox>
+	</object>
+</annotation>

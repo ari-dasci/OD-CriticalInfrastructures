@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_test_9TGM21</folder>
+<filename>SanlucarDeBarrameda_36-768383_-6-335292_36-767457_-6-334204_21_0-0616_100_100_resize.jpg</filename>
+<path>SanlucarDeBarrameda_36-768383_-6-335292_36-767457_-6-334204_21_0-0616_100_100_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1622</width>
+		<height>1345</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>796</xmin>
+			<ymin>389</ymin>
+			<xmax>1266</xmax>
+			<ymax>904</ymax>
+		</bndbox>
+	</object>
+</annotation>

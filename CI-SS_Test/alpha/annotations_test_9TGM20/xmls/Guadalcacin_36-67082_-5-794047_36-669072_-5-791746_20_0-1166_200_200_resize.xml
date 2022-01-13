@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_test_9TGM20</folder>
+<filename>Guadalcacin_36-67082_-5-794047_36-669072_-5-791746_20_0-1166_200_200_resize.jpg</filename>
+<path>Guadalcacin_36-67082_-5-794047_36-669072_-5-791746_20_0-1166_200_200_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1715</width>
+		<height>1345</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>734</xmin>
+			<ymin>511</ymin>
+			<xmax>971</xmax>
+			<ymax>817</ymax>
+		</bndbox>
+	</object>
+</annotation>

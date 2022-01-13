@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_test_9TGM20</folder>
+<filename>MonteAlto_36-708207_-6-139042_36-706353_-6-136873_20_0-1236_200_200_resize.jpg</filename>
+<path>MonteAlto_36-708207_-6-139042_36-706353_-6-136873_20_0-1236_200_200_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1617</width>
+		<height>1345</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>669</xmin>
+			<ymin>459</ymin>
+			<xmax>1015</xmax>
+			<ymax>766</ymax>
+		</bndbox>
+	</object>
+</annotation>

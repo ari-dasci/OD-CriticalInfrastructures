@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_test_9TGM19</folder>
+<filename>Cosario_36-79746_-2-683342_36-793842_-2-678874_19_0-2401_400_400_resize.jpg</filename>
+<path>Cosario_36-79746_-2-683342_36-793842_-2-678874_19_0-2401_400_400_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1666</width>
+		<height>1345</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>730</xmin>
+			<ymin>511</ymin>
+			<xmax>922</xmax>
+			<ymax>766</ymax>
+		</bndbox>
+	</object>
+</annotation>

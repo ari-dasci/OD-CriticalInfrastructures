@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_test_9TGM21</folder>
+<filename>Cosario_36-796103_-2-681667_36-795199_-2-680549_21_0-06_100_100_resize.jpg</filename>
+<path>Cosario_36-796103_-2-681667_36-795199_-2-680549_21_0-06_100_100_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1666</width>
+		<height>1345</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>437</xmin>
+			<ymin>96</ymin>
+			<xmax>1167</xmax>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+</annotation>

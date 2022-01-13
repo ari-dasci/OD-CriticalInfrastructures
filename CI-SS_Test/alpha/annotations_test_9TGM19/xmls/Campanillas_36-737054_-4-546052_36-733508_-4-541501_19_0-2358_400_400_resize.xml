@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_test_9TGM19</folder>
+<filename>Campanillas_36-737054_-4-546052_36-733508_-4-541501_19_0-2358_400_400_resize.jpg</filename>
+<path>Campanillas_36-737054_-4-546052_36-733508_-4-541501_19_0-2358_400_400_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1696</width>
+		<height>1345</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>734</xmin>
+			<ymin>595</ymin>
+			<xmax>915</xmax>
+			<ymax>741</ymax>
+		</bndbox>
+	</object>
+</annotation>

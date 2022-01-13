@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_test_9TGM21</folder>
+<filename>CDTSanAugustu_36-704654_-4-885072_36-70377_-4-883931_21_0-0588_100_100_resize.jpg</filename>
+<path>CDTSanAugustu_36-704654_-4-885072_36-70377_-4-883931_21_0-0588_100_100_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1701</width>
+		<height>1345</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>450</xmin>
+			<ymin>507</ymin>
+			<xmax>1074</xmax>
+			<ymax>776</ymax>
+		</bndbox>
+	</object>
+</annotation>

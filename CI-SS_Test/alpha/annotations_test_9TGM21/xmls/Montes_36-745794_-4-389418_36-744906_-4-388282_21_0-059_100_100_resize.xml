@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_test_9TGM21</folder>
+<filename>Montes_36-745794_-4-389418_36-744906_-4-388282_21_0-059_100_100_resize.jpg</filename>
+<path>Montes_36-745794_-4-389418_36-744906_-4-388282_21_0-059_100_100_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1694</width>
+		<height>1345</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>1</ymin>
+			<xmax>1532</xmax>
+			<ymax>1345</ymax>
+		</bndbox>
+	</object>
+</annotation>
