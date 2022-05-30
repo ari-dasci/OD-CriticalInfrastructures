@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Original</folder>
+	<filename>Aceros_Buenos24.jpg</filename>
+	<path>/home/fperez/GitHub/x_UGR/GoogleMaps_database/Labeled/Original/Aceros_Buenos24.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5529</width>
+		<height>4202</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1177</xmin>
+			<ymin>792</ymin>
+			<xmax>5047</xmax>
+			<ymax>3949</ymax>
+		</bndbox>
+	</object>
+</annotation>

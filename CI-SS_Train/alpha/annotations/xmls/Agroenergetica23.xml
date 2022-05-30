@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ToLabel</folder>
+	<filename>Agroenergetica23.jpg</filename>
+	<path>/home/fperez/GitHub/x_UGR/GoogleMaps_database/ToLabel/Agroenergetica23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>17169</width>
+		<height>8684</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5869</xmin>
+			<ymin>5422</ymin>
+			<xmax>6910</xmax>
+			<ymax>5881</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Jabalcon23.jpg</filename>
+	<path>/home/fperez/Descargas/x/images/Jabalcon23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>16097</width>
+		<height>8446</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7933</xmin>
+			<ymin>3645</ymin>
+			<xmax>9596</xmax>
+			<ymax>4732</ymax>
+		</bndbox>
+	</object>
+</annotation>

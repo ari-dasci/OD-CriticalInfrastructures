@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Xirgu24.jpg</filename>
+	<path>/home/fperez/Descargas/x/images/Xirgu24.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6449</width>
+		<height>3553</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>505</xmin>
+			<ymin>462</ymin>
+			<xmax>5619</xmax>
+			<ymax>3023</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NewSS</folder>
+	<filename>Cadiz23.jpg</filename>
+	<path>/home/ff/Descargas/NewSS/Cadiz23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>14097</width>
+		<height>6239</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5270</xmin>
+			<ymin>1368</ymin>
+			<xmax>9717</xmax>
+			<ymax>4971</ymax>
+		</bndbox>
+	</object>
+</annotation>

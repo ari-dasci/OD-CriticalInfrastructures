@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NEWYassir</folder>
+	<filename>BAHIA_SUR20.jpg</filename>
+	<path>Y:\ownCloud\DBx\Subestaciones\0Originales\NEWYassir\BAHIA_SUR20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2095</width>
+		<height>884</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>994</xmin>
+			<ymin>450</ymin>
+			<xmax>1036</xmax>
+			<ymax>503</ymax>
+		</bndbox>
+	</object>
+</annotation>

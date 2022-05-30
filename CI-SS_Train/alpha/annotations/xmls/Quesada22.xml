@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resize_images</folder>
+	<filename>Quesada22.jpg</filename>
+	<path>/home/fperez/GitHub/x_UGR/GoogleMaps_database/resize_images/Quesada22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>8049</width>
+		<height>3652</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3081</xmin>
+			<ymin>1096</ymin>
+			<xmax>4007</xmax>
+			<ymax>1633</ymax>
+		</bndbox>
+	</object>
+</annotation>

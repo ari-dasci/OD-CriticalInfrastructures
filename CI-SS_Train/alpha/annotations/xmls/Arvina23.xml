@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NewSS</folder>
+	<filename>Arvina23.jpg</filename>
+	<path>/home/ff/Descargas/NewSS/Arvina23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>17265</width>
+		<height>7717</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7724</xmin>
+			<ymin>2580</ymin>
+			<xmax>8878</xmax>
+			<ymax>3412</ymax>
+		</bndbox>
+	</object>
+</annotation>

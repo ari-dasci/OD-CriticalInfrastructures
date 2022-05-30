@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NewSS</folder>
+	<filename>Corchado23.jpg</filename>
+	<path>/home/ff/Descargas/NewSS/Corchado23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>14097</width>
+		<height>6265</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7852</xmin>
+			<ymin>2545</ymin>
+			<xmax>9021</xmax>
+			<ymax>3150</ymax>
+		</bndbox>
+	</object>
+</annotation>

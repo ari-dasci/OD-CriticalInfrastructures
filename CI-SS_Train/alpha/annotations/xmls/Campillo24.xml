@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resize_images</folder>
+	<filename>Campillo24.jpg</filename>
+	<path>/home/fperez/GitHub/x_UGR/GoogleMaps_database/resize_images/Campillo24.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1761</width>
+		<height>1429</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>680</xmin>
+			<ymin>531</ymin>
+			<xmax>1142</xmax>
+			<ymax>945</ymax>
+		</bndbox>
+	</object>
+</annotation>

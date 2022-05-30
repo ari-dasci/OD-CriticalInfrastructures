@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resize_images</folder>
+	<filename>Huescar20.jpg</filename>
+	<path>/home/fperez/GitHub/x_UGR/GoogleMaps_database/resize_images/Huescar20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2133</width>
+		<height>1034</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1046</xmin>
+			<ymin>433</ymin>
+			<xmax>1166</xmax>
+			<ymax>542</ymax>
+		</bndbox>
+	</object>
+</annotation>

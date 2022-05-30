@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NEWYassir</folder>
+	<filename>MARBELLA22.jpg</filename>
+	<path>Y:\ownCloud\DBx\Subestaciones\0Originales\NEWYassir\MARBELLA22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>8377</width>
+		<height>3531</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3800</xmin>
+			<ymin>1658</ymin>
+			<xmax>4142</xmax>
+			<ymax>1882</ymax>
+		</bndbox>
+	</object>
+</annotation>

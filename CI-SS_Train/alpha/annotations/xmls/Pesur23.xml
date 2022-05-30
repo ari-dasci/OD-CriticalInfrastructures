@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Original</folder>
+	<filename>Pesur23.jpg</filename>
+	<path>/home/fperez/GitHub/x_UGR/GoogleMaps_database/Labeled/Original/Pesur23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>20833</width>
+		<height>8848</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10500</xmin>
+			<ymin>3625</ymin>
+			<xmax>11846</xmax>
+			<ymax>4341</ymax>
+		</bndbox>
+	</object>
+</annotation>

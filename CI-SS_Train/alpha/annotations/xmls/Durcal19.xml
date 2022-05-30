@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resize_images</folder>
+	<filename>Durcal19.jpg</filename>
+	<path>/home/fperez/GitHub/x_UGR/GoogleMaps_database/resize_images/Durcal19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>977</width>
+		<height>507</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>414</xmin>
+			<ymin>205</ymin>
+			<xmax>519</xmax>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NewSS</folder>
+	<filename>Nparaiso23.jpg</filename>
+	<path>/home/ff/Descargas/NewSS/Nparaiso23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>14097</width>
+		<height>6267</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7056</xmin>
+			<ymin>4457</ymin>
+			<xmax>7421</xmax>
+			<ymax>5091</ymax>
+		</bndbox>
+	</object>
+</annotation>

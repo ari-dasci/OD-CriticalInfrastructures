@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resize_images</folder>
+	<filename>Fargue23.jpg</filename>
+	<path>/home/fperez/GitHub/x_UGR/GoogleMaps_database/resize_images/Fargue23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>15617</width>
+		<height>8068</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6963</xmin>
+			<ymin>2844</ymin>
+			<xmax>10519</xmax>
+			<ymax>4711</ymax>
+		</bndbox>
+	</object>
+</annotation>

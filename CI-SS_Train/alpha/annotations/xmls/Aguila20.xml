@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ToLabel</folder>
+	<filename>Aguila20.jpg</filename>
+	<path>/home/fperez/GitHub/x_UGR/GoogleMaps_database/ToLabel/Aguila20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2147</width>
+		<height>1090</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>866</xmin>
+			<ymin>380</ymin>
+			<xmax>1049</xmax>
+			<ymax>510</ymax>
+		</bndbox>
+	</object>
+</annotation>

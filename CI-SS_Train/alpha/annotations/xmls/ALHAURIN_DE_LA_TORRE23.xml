@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NEWYassir</folder>
+	<filename>ALHAURIN_DE_LA_TORRE23.jpg</filename>
+	<path>Y:\ownCloud\DBx\Subestaciones\0Originales\NEWYassir\ALHAURIN_DE_LA_TORRE23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>16753</width>
+		<height>7048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4868</xmin>
+			<ymin>1169</ymin>
+			<xmax>10824</xmax>
+			<ymax>5541</ymax>
+		</bndbox>
+	</object>
+</annotation>

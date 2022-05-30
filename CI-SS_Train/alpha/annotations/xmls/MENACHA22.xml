@@ -1,0 +1,26 @@
+<annotation>
+	<folder>DD</folder>
+	<filename>MENACHA22.jpg</filename>
+	<path>/home/ff/Descargas/DD/MENACHA22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>8417</width>
+		<height>3553</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4110</xmin>
+			<ymin>1493</ymin>
+			<xmax>4323</xmax>
+			<ymax>1758</ymax>
+		</bndbox>
+	</object>
+</annotation>

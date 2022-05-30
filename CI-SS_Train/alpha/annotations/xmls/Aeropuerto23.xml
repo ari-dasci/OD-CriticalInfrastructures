@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ToLabel</folder>
+	<filename>Aeropuerto23.jpg</filename>
+	<path>/home/fperez/GitHub/x_UGR/GoogleMaps_database/ToLabel/Aeropuerto23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>17169</width>
+		<height>8703</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8656</xmin>
+			<ymin>3303</ymin>
+			<xmax>10042</xmax>
+			<ymax>4765</ymax>
+		</bndbox>
+	</object>
+</annotation>

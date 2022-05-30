@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NewSS</folder>
+	<filename>Hinojera22.jpg</filename>
+	<path>/home/ff/Descargas/NewSS/Hinojera22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>9529</width>
+		<height>4398</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4270</xmin>
+			<ymin>1586</ymin>
+			<xmax>5021</xmax>
+			<ymax>2059</ymax>
+		</bndbox>
+	</object>
+</annotation>

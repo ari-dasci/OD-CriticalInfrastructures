@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NewSS</folder>
+	<filename>Buitreras21.jpg</filename>
+	<path>/home/ff/Descargas/NewSS/Buitreras21.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4765</width>
+		<height>2202</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2183</xmin>
+			<ymin>802</ymin>
+			<xmax>2403</xmax>
+			<ymax>1163</ymax>
+		</bndbox>
+	</object>
+</annotation>

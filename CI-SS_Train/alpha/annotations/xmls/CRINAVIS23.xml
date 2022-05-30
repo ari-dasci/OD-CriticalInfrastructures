@@ -1,0 +1,26 @@
+<annotation>
+	<folder>DD</folder>
+	<filename>CRINAVIS23.jpg</filename>
+	<path>/home/ff/Descargas/DD/CRINAVIS23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>16833</width>
+		<height>7105</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8299</xmin>
+			<ymin>2695</ymin>
+			<xmax>8942</xmax>
+			<ymax>3362</ymax>
+		</bndbox>
+	</object>
+</annotation>

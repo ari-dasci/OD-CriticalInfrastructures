@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ToLabel</folder>
+	<filename>Guadix19.jpg</filename>
+	<path>/home/fperez/GitHub/x_UGR/GoogleMaps_database/ToLabel/Guadix19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1312</width>
+		<height>552</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>615</xmin>
+			<ymin>269</ymin>
+			<xmax>677</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+</annotation>

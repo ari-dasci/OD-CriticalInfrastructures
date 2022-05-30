@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NewSS</folder>
+	<filename>ESTRECHO20.jpg</filename>
+	<path>/home/ff/Descargas/NewSS/ESTRECHO20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2101</width>
+		<height>890</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>946</xmin>
+			<ymin>407</ymin>
+			<xmax>1050</xmax>
+			<ymax>466</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Linares22.jpg</filename>
+	<path>/home/fperez/Descargas/x/images/Linares22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>8049</width>
+		<height>4195</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3494</xmin>
+			<ymin>1514</ymin>
+			<xmax>5712</xmax>
+			<ymax>2650</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Original</folder>
+	<filename>Aguadulce24.jpg</filename>
+	<path>/home/fperez/GitHub/x_UGR/GoogleMaps_database/Labeled/Original/Aguadulce24.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4137</width>
+		<height>3056</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>720</xmin>
+			<ymin>379</ymin>
+			<xmax>2778</xmax>
+			<ymax>1805</ymax>
+		</bndbox>
+	</object>
+</annotation>

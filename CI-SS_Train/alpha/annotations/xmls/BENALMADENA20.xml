@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NEWYassir</folder>
+	<filename>BENALMADENA20.jpg</filename>
+	<path>Y:\ownCloud\DBx\Subestaciones\0Originales\NEWYassir\BENALMADENA20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1763</width>
+		<height>782</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>846</xmin>
+			<ymin>337</ymin>
+			<xmax>917</xmax>
+			<ymax>368</ymax>
+		</bndbox>
+	</object>
+</annotation>

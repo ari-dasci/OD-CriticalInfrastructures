@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Yeguas19.jpg</filename>
+	<path>/home/fperez/Descargas/x/images/Yeguas19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1007</width>
+		<height>526</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>517</xmin>
+			<ymin>166</ymin>
+			<xmax>538</xmax>
+			<ymax>194</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Original</folder>
+	<filename>Agroenergetica24.jpg</filename>
+	<path>/home/fperez/GitHub/x_UGR/GoogleMaps_database/Labeled/Original/Agroenergetica24.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2729</width>
+		<height>1043</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>255</xmin>
+			<ymin>83</ymin>
+			<xmax>2449</xmax>
+			<ymax>945</ymax>
+		</bndbox>
+	</object>
+</annotation>

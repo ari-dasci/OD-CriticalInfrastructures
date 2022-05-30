@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NewSS</folder>
+	<filename>MarinaEspanola23.jpg</filename>
+	<path>/home/ff/Descargas/NewSS/MarinaEspanola23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>16321</width>
+		<height>7165</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8295</xmin>
+			<ymin>2943</ymin>
+			<xmax>8568</xmax>
+			<ymax>3409</ymax>
+		</bndbox>
+	</object>
+</annotation>

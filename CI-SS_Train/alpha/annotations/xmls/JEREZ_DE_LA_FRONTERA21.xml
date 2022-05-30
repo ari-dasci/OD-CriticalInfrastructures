@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NEWYassir</folder>
+	<filename>JEREZ_DE_LA_FRONTERA21.jpg</filename>
+	<path>Y:\ownCloud\DBx\Subestaciones\0Originales\NEWYassir\JEREZ_DE_LA_FRONTERA21.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4189</width>
+		<height>1762</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2001</xmin>
+			<ymin>681</ymin>
+			<xmax>2194</xmax>
+			<ymax>828</ymax>
+		</bndbox>
+	</object>
+</annotation>

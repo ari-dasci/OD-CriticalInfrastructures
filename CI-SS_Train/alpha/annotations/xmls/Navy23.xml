@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NewSS</folder>
+	<filename>Navy23.jpg</filename>
+	<path>/home/ff/Descargas/NewSS/Navy23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>16321</width>
+		<height>7166</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7033</xmin>
+			<ymin>3279</ymin>
+			<xmax>8256</xmax>
+			<ymax>4071</ymax>
+		</bndbox>
+	</object>
+</annotation>

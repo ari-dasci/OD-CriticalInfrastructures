@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Marmolejo22.jpg</filename>
+	<path>/home/fperez/Descargas/x/images/Marmolejo22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>8049</width>
+		<height>4196</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4064</xmin>
+			<ymin>1987</ymin>
+			<xmax>4446</xmax>
+			<ymax>2225</ymax>
+		</bndbox>
+	</object>
+</annotation>

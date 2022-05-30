@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Valenciana21.jpg</filename>
+	<path>/home/fperez/Descargas/x/images/Valenciana21.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4025</width>
+		<height>2139</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1932</xmin>
+			<ymin>1008</ymin>
+			<xmax>2317</xmax>
+			<ymax>1297</ymax>
+		</bndbox>
+	</object>
+</annotation>

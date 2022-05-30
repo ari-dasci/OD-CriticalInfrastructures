@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Yeguas22.jpg</filename>
+	<path>/home/fperez/Descargas/x/images/Yeguas22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>8049</width>
+		<height>4196</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4134</xmin>
+			<ymin>1345</ymin>
+			<xmax>4294</xmax>
+			<ymax>1534</ymax>
+		</bndbox>
+	</object>
+</annotation>

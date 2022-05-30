@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NewSS</folder>
+	<filename>PuertoSantaMaria22.jpg</filename>
+	<path>/home/ff/Descargas/NewSS/PuertoSantaMaria22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>9529</width>
+		<height>4397</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2921</xmin>
+			<ymin>1157</ymin>
+			<xmax>5221</xmax>
+			<ymax>2903</ymax>
+		</bndbox>
+	</object>
+</annotation>

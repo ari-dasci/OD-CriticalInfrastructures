@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NEWYassir</folder>
+	<filename>MEDINA_SIDONIA22.jpg</filename>
+	<path>Y:\ownCloud\DBx\Subestaciones\0Originales\NEWYassir\MEDINA_SIDONIA22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>8377</width>
+		<height>3533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4835</xmin>
+			<ymin>1149</ymin>
+			<xmax>5049</xmax>
+			<ymax>1409</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>DD</folder>
+	<filename>SAN_ROQUE23.jpg</filename>
+	<path>/home/ff/Descargas/DD/SAN_ROQUE23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>16833</width>
+		<height>7088</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8785</xmin>
+			<ymin>3031</ymin>
+			<xmax>9621</xmax>
+			<ymax>3920</ymax>
+		</bndbox>
+	</object>
+</annotation>

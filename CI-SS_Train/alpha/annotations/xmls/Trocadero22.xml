@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NewSS</folder>
+	<filename>Trocadero22.jpg</filename>
+	<path>/home/ff/Descargas/NewSS/Trocadero22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>8161</width>
+		<height>3588</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4222</xmin>
+			<ymin>1803</ymin>
+			<xmax>4600</xmax>
+			<ymax>2042</ymax>
+		</bndbox>
+	</object>
+</annotation>

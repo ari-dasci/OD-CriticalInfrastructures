@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Original</folder>
+	<filename>Aguila24.jpg</filename>
+	<path>/home/fperez/GitHub/x_UGR/GoogleMaps_database/Labeled/Original/Aguila24.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6809</width>
+		<height>4924</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1315</xmin>
+			<ymin>1489</ymin>
+			<xmax>5154</xmax>
+			<ymax>4450</ymax>
+		</bndbox>
+	</object>
+</annotation>

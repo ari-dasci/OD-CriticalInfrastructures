@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NewSS</folder>
+	<filename>Estepona22.jpg</filename>
+	<path>/home/ff/Descargas/NewSS/Estepona22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>8633</width>
+		<height>3870</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4131</xmin>
+			<ymin>1081</ymin>
+			<xmax>4901</xmax>
+			<ymax>1411</ymax>
+		</bndbox>
+	</object>
+</annotation>

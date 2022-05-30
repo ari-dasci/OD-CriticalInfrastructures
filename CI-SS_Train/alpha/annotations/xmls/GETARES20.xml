@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NewSS</folder>
+	<filename>GETARES20.jpg</filename>
+	<path>/home/ff/Descargas/NewSS/GETARES20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2101</width>
+		<height>890</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1000</xmin>
+			<ymin>386</ymin>
+			<xmax>1036</xmax>
+			<ymax>495</ymax>
+		</bndbox>
+	</object>
+</annotation>

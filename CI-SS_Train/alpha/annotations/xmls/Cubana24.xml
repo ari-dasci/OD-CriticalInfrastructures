@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Cubana24.jpg</filename>
+	<path>/home/fperez/Descargas/x/images/Cubana24.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2881</width>
+		<height>2464</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>496</xmin>
+			<ymin>452</ymin>
+			<xmax>2365</xmax>
+			<ymax>2106</ymax>
+		</bndbox>
+	</object>
+</annotation>

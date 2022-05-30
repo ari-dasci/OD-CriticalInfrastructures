@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NewSS</folder>
+	<filename>VEJER21.jpg</filename>
+	<path>/home/ff/Descargas/NewSS/VEJER21.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4201</width>
+		<height>1775</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1968</xmin>
+			<ymin>782</ymin>
+			<xmax>2289</xmax>
+			<ymax>975</ymax>
+		</bndbox>
+	</object>
+</annotation>

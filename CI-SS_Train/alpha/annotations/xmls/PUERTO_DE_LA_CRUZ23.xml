@@ -1,0 +1,26 @@
+<annotation>
+	<folder>DD</folder>
+	<filename>PUERTO_DE_LA_CRUZ23.jpg</filename>
+	<path>/home/ff/Descargas/DD/PUERTO_DE_LA_CRUZ23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>16833</width>
+		<height>7114</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3983</xmin>
+			<ymin>457</ymin>
+			<xmax>10884</xmax>
+			<ymax>6256</ymax>
+		</bndbox>
+	</object>
+</annotation>

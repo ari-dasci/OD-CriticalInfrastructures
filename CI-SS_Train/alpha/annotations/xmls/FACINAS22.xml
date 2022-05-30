@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NewSS</folder>
+	<filename>FACINAS22.jpg</filename>
+	<path>/home/ff/Descargas/NewSS/FACINAS22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>8401</width>
+		<height>3554</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3234</xmin>
+			<ymin>1037</ymin>
+			<xmax>5588</xmax>
+			<ymax>2807</ymax>
+		</bndbox>
+	</object>
+</annotation>

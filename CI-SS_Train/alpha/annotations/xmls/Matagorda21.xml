@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NewSS</folder>
+	<filename>Matagorda21.jpg</filename>
+	<path>/home/ff/Descargas/NewSS/Matagorda21.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4765</width>
+		<height>2203</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2379</xmin>
+			<ymin>987</ymin>
+			<xmax>2511</xmax>
+			<ymax>1158</ymax>
+		</bndbox>
+	</object>
+</annotation>

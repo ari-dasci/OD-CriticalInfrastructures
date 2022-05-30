@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Zaidin20.jpg</filename>
+	<path>/home/fperez/Descargas/x/images/Zaidin20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2013</width>
+		<height>1062</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1012</xmin>
+			<ymin>405</ymin>
+			<xmax>1142</xmax>
+			<ymax>608</ymax>
+		</bndbox>
+	</object>
+</annotation>

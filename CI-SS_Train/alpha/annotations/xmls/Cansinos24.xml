@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Cansinos24.jpg</filename>
+	<path>/home/fperez/Descargas/x/images/Cansinos24.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4281</width>
+		<height>3718</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1071</xmin>
+			<ymin>336</ymin>
+			<xmax>4109</xmax>
+			<ymax>2655</ymax>
+		</bndbox>
+	</object>
+</annotation>

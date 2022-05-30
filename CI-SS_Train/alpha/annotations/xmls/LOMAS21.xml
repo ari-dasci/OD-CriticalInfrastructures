@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NewSS</folder>
+	<filename>LOMAS21.jpg</filename>
+	<path>/home/ff/Descargas/NewSS/LOMAS21.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4201</width>
+		<height>1775</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2098</xmin>
+			<ymin>816</ymin>
+			<xmax>2206</xmax>
+			<ymax>894</ymax>
+		</bndbox>
+	</object>
+</annotation>

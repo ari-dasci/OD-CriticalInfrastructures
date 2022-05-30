@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NewSS</folder>
+	<filename>Cartuja22.jpg</filename>
+	<path>/home/ff/Descargas/NewSS/Cartuja22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>7049</width>
+		<height>3115</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2403</xmin>
+			<ymin>461</ymin>
+			<xmax>5686</xmax>
+			<ymax>2609</ymax>
+		</bndbox>
+	</object>
+</annotation>

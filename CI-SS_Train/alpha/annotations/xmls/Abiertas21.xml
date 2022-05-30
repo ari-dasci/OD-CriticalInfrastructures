@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Original</folder>
+	<filename>Abiertas21.jpg</filename>
+	<path>/home/fperez/GitHub/x_UGR/GoogleMaps_database/Labeled/Original/Abiertas21.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4293</width>
+		<height>2194</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2040</xmin>
+			<ymin>978</ymin>
+			<xmax>2208</xmax>
+			<ymax>1120</ymax>
+		</bndbox>
+	</object>
+</annotation>

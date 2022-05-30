@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Ubeda24.jpg</filename>
+	<path>/home/fperez/Descargas/x/images/Ubeda24.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>7345</width>
+		<height>7009</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1626</xmin>
+			<ymin>504</ymin>
+			<xmax>5949</xmax>
+			<ymax>6658</ymax>
+		</bndbox>
+	</object>
+</annotation>

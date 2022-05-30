@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Original</folder>
+	<filename>Alamillo24.jpg</filename>
+	<path>/home/fperez/GitHub/x_UGR/GoogleMaps_database/Labeled/Original/Alamillo24.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3961</width>
+		<height>3413</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1023</xmin>
+			<ymin>574</ymin>
+			<xmax>2644</xmax>
+			<ymax>2106</ymax>
+		</bndbox>
+	</object>
+</annotation>

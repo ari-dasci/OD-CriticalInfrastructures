@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Zafra19.jpg</filename>
+	<path>/home/fperez/Descargas/x/images/Zafra19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1007</width>
+		<height>523</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>452</xmin>
+			<ymin>216</ymin>
+			<xmax>528</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+</annotation>

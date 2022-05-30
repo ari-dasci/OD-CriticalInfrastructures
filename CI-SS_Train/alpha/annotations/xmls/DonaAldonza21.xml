@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>DonaAldonza21.jpg</filename>
+	<path>/home/fperez/Descargas/x/images/DonaAldonza21.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4025</width>
+		<height>2102</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1812</xmin>
+			<ymin>816</ymin>
+			<xmax>2290</xmax>
+			<ymax>1324</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NewSS</folder>
+	<filename>Platero22.jpg</filename>
+	<path>/home/ff/Descargas/NewSS/Platero22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>8161</width>
+		<height>3584</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3651</xmin>
+			<ymin>1525</ymin>
+			<xmax>4373</xmax>
+			<ymax>1860</ymax>
+		</bndbox>
+	</object>
+</annotation>

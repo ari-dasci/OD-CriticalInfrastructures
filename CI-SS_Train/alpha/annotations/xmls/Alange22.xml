@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Original</folder>
+	<filename>Alange22.jpg</filename>
+	<path>/home/fperez/GitHub/x_UGR/GoogleMaps_database/Labeled/Original/Alange22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>8585</width>
+		<height>4272</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4127</xmin>
+			<ymin>2664</ymin>
+			<xmax>4777</xmax>
+			<ymax>3150</ymax>
+		</bndbox>
+	</object>
+</annotation>

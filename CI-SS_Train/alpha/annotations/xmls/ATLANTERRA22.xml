@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NewSS</folder>
+	<filename>ATLANTERRA22.jpg</filename>
+	<path>/home/ff/Descargas/NewSS/ATLANTERRA22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>8401</width>
+		<height>3556</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3751</xmin>
+			<ymin>1314</ymin>
+			<xmax>4478</xmax>
+			<ymax>1760</ymax>
+		</bndbox>
+	</object>
+</annotation>

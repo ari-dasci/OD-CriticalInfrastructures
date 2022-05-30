@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Bailen22.jpg</filename>
+	<path>/home/fperez/Descargas/x/images/Bailen22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>8049</width>
+		<height>4194</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>substation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3767</xmin>
+			<ymin>1635</ymin>
+			<xmax>4545</xmax>
+			<ymax>1863</ymax>
+		</bndbox>
+	</object>
+</annotation>
