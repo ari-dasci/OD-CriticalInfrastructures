@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>ParisDeauville16.jpg</filename>
+	<path>/mnt/37EF314C613A76E8/GitHub/x/IMAGENES/Aeropuertos/AeropuertosParis/images/ParisDeauville16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2059</width>
+		<height>1194</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>airport</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>783</xmin>
+			<ymin>465</ymin>
+			<xmax>1523</xmax>
+			<ymax>753</ymax>
+		</bndbox>
+	</object>
+</annotation>

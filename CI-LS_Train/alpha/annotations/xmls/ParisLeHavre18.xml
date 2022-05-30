@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>ParisLeHavre18.jpg</filename>
+	<path>/mnt/37EF314C613A76E8/GitHub/x/IMAGENES/Aeropuertos/AeropuertosParis/images/ParisLeHavre18.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>8233</width>
+		<height>4757</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>airport</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3358</xmin>
+			<ymin>1368</ymin>
+			<xmax>5452</xmax>
+			<ymax>2829</ymax>
+		</bndbox>
+	</object>
+</annotation>

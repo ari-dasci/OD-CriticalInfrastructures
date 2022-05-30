@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Burgos15.jpg</filename>
+	<path>/mnt/37EF314C613A76E8/GitHub/x/IMAGENES/Aeropuertos/SASPlanet_Aer_Originales1/images/Burgos15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>929</width>
+		<height>628</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>airport</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>328</xmin>
+			<ymin>238</ymin>
+			<xmax>598</xmax>
+			<ymax>428</ymax>
+		</bndbox>
+	</object>
+</annotation>

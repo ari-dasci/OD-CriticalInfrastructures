@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>ParisRouen17.jpg</filename>
+	<path>/mnt/37EF314C613A76E8/GitHub/x/IMAGENES/Aeropuertos/AeropuertosParis/images/ParisRouen17.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4117</width>
+		<height>2386</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>airport</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1773</xmin>
+			<ymin>917</ymin>
+			<xmax>2771</xmax>
+			<ymax>1487</ymax>
+		</bndbox>
+	</object>
+</annotation>

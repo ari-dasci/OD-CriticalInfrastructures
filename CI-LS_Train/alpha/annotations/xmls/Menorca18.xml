@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Menorca18.jpg</filename>
+	<path>/mnt/37EF314C613A76E8/GitHub/x/IMAGENES/Aeropuertos/SASPlanet_Aer_Originales2/images/Menorca18.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3961</width>
+		<height>2914</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>airport</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1439</xmin>
+			<ymin>329</ymin>
+			<xmax>2412</xmax>
+			<ymax>2618</ymax>
+		</bndbox>
+	</object>
+</annotation>
