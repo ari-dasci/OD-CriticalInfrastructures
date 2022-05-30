@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_17</folder>
+	<filename>puerto-9_43-51576_13-616981_43-504003_13-633677_17_0-8534_1328_1328_resize.jpg</filename>
+	<path>/home/jrodriguez/Documentos/x/googlemaps/images_17/puerto-9_43-51576_13-616981_43-504003_13-633677_17_0-8534_1328_1328_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1556</width>
+		<height>1116</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>harbor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>594</xmin>
+			<ymin>334</ymin>
+			<xmax>979</xmax>
+			<ymax>802</ymax>
+		</bndbox>
+	</object>
+</annotation>

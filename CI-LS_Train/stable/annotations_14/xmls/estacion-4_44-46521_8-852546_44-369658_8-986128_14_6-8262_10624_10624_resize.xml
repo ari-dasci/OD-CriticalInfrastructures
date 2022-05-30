@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>estacion-4_44-46521_8-852546_44-369658_8-986128_14_6-8262_10624_10624_resize.jpg</filename>
+	<path>/home/fperez/Descargas/Telegram Desktop/ddd/images/estacion-4_44-46521_8-852546_44-369658_8-986128_14_6-8262_10624_10624_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1556</width>
+		<height>1116</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>harbor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>309</xmin>
+			<ymin>570</ymin>
+			<xmax>1050</xmax>
+			<ymax>878</ymax>
+		</bndbox>
+	</object>
+</annotation>

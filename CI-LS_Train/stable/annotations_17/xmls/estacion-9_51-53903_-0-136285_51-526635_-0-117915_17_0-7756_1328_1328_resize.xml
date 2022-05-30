@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>estacion-9_51-53903_-0-136285_51-526635_-0-117915_17_0-7756_1328_1328_resize.jpg</filename>
+	<path>/home/fperez/Descargas/Telegram Desktop/ddd/images/estacion-9_51-53903_-0-136285_51-526635_-0-117915_17_0-7756_1328_1328_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1712</width>
+		<height>1116</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>train_station</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>695</xmin>
+			<ymin>389</ymin>
+			<xmax>979</xmax>
+			<ymax>653</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>train_station</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>751</ymin>
+			<xmax>339</xmax>
+			<ymax>1002</ymax>
+		</bndbox>
+	</object>
+</annotation>

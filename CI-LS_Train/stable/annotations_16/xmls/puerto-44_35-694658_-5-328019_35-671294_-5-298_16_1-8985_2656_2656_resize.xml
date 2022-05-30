@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>puerto-44_35-694658_-5-328019_35-671294_-5-298_16_1-8985_2656_2656_resize.jpg</filename>
+	<path>/home/jrodriguez/Documentos/x/googlemaps/etiquetado/GMOTRASCLASES2/images/puerto-44_35-694658_-5-328019_35-671294_-5-298_16_1-8985_2656_2656_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1399</width>
+		<height>1116</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>harbor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>502</xmin>
+			<ymin>418</ymin>
+			<xmax>910</xmax>
+			<ymax>681</ymax>
+		</bndbox>
+	</object>
+</annotation>

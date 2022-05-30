@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>ciudad4-15.jpg</filename>
+	<path>/home/jrodriguez/Documentos/UBUNTU/Universidad/INVESTIGACION/x/imagenes-aeropuertos/images-non-air/images/ciudad4-15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>463</width>
+		<height>379</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motorway</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>107</ymin>
+			<xmax>126</xmax>
+			<ymax>379</ymax>
+		</bndbox>
+	</object>
+</annotation>

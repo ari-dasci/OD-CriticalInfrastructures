@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>puerto-35_39-672663_19-82148_39-625421_19-884173_15_3-6362_5312_5312_resize.jpg</filename>
+	<path>/home/jrodriguez/Documentos/x/googlemaps/etiquetado/GMOTRASCLASES2/images/puerto-35_39-672663_19-82148_39-625421_19-884173_15_3-6362_5312_5312_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1460</width>
+		<height>1116</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>harbor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>611</xmin>
+			<ymin>496</ymin>
+			<xmax>838</xmax>
+			<ymax>628</ymax>
+		</bndbox>
+	</object>
+</annotation>

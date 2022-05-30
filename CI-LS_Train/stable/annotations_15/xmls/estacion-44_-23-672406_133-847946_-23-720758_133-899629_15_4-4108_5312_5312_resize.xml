@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>estacion-44_-23-672406_133-847946_-23-720758_133-899629_15_4-4108_5312_5312_resize.jpg</filename>
+	<path>/home/jrodriguez/Documentos/x/googlemaps/etiquetado/GMOTRASCLASES2/images/estacion-44_-23-672406_133-847946_-23-720758_133-899629_15_4-4108_5312_5312_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1204</width>
+		<height>1116</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>train_station</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>505</xmin>
+			<ymin>457</ymin>
+			<xmax>649</xmax>
+			<ymax>561</ymax>
+		</bndbox>
+	</object>
+</annotation>

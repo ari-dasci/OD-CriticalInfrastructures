@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>campo2-16.jpg</filename>
+	<path>/home/jrodriguez/Documentos/UBUNTU/Universidad/INVESTIGACION/x/imagenes-aeropuertos/images-non-air/images/campo2-16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>926</width>
+		<height>752</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motorway</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>701</xmin>
+			<ymin>3</ymin>
+			<xmax>925</xmax>
+			<ymax>113</ymax>
+		</bndbox>
+	</object>
+</annotation>

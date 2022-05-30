@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>ciudad12-17.jpg</filename>
+	<path>/home/jrodriguez/Documentos/UBUNTU/Universidad/INVESTIGACION/x/imagenes-aeropuertos/images-non-air/images/ciudad12-17.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1851</width>
+		<height>1446</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>train_station</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1164</xmin>
+			<ymin>1230</ymin>
+			<xmax>1393</xmax>
+			<ymax>1432</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_16</folder>
+	<filename>puerto-48_35-904213_-5-517907_35-880903_-5-487752_16_1-89_2656_2656_resize.jpg</filename>
+	<path>/home/jrodriguez/Documentos/x/googlemaps/images_16/puerto-48_35-904213_-5-517907_35-880903_-5-487752_16_1-89_2656_2656_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1405</width>
+		<height>1116</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>harbor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>475</xmin>
+			<ymin>154</ymin>
+			<xmax>1358</xmax>
+			<ymax>856</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>estacion-57_-23-520953_-46-65219_-23-545208_-46-626478_16_2-2165_2656_2656_resize.jpg</filename>
+	<path>/home/jrodriguez/Documentos/x/googlemaps/images/estacion-57_-23-520953_-46-65219_-23-545208_-46-626478_16_2-2165_2656_2656_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1198</width>
+		<height>1116</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>train_station</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>543</xmin>
+			<ymin>471</ymin>
+			<xmax>656</xmax>
+			<ymax>573</ymax>
+		</bndbox>
+	</object>
+</annotation>
